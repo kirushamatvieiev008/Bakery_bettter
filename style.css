@@ -163,7 +163,7 @@ header {
     justify-content: space-between;
 
     list-style: none;
-    
+
 }
 
 .buy {
@@ -259,7 +259,7 @@ header {
     margin-top: 13px;
 
     color: #FFFFFF;
-    
+
     font-family: 'Inter', sans-serif;
     font-weight: 500;
 
@@ -342,7 +342,7 @@ header {
     text-align: center;
 
     color: #FFFFFF;
-    
+
     margin-top: 0;
     padding-top: 21px;
     margin-bottom: 18px;
@@ -418,7 +418,7 @@ header {
     margin-bottom: 0px;
 
     height: 229px;
-    
+
     display: flex;
     justify-content: space-between;
 }
@@ -577,7 +577,7 @@ ul {
 .quality_container {
     margin: 0 auto;
     margin-top: 0;
-    
+
     width: 1050px;
 }
 
@@ -587,7 +587,7 @@ ul {
     background-size: cover;
 
     width: 100%;
-    
+
     margin-top: 0;
 }
 
@@ -603,7 +603,7 @@ ul {
 
 .num_list {
     text-align: left;
-    
+
     list-style: none;
 
     color: #FFF;
@@ -620,13 +620,13 @@ ul {
 .div_quality {
     backdrop-filter: blur(18px);
     background-color: rgba(242, 242, 242, 0.3);
-    
+
     box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.25);
     width: 292px;
     height: 198.5px;
-    
+
     text-align: center;
-    
+
     margin: 0 auto;
 }
 
@@ -684,7 +684,7 @@ ul {
 .hend_dish_hotel {
     display: flex;
     justify-content: space-between;
-    
+
     padding-left: 0;
     margin-bottom: 0;
     padding-bottom: 56px;
@@ -696,7 +696,7 @@ ul {
     padding-bottom: 104px;
     padding-left: 50px;
     margin-top: 0;
-    
+
     color: #FFF;
 
     font-size: 48px;
@@ -716,11 +716,11 @@ ul {
     text-align: center;
 
     color: #FFF;
-    
+
     font-family: 'Inter', sans-serif;
     font-weight: 800;
     font-size: 24px;
-    
+
     margin-bottom: 0;
     margin-top: 10px;
 }
@@ -731,7 +731,7 @@ ul {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
     font-size: 24px;
-    
+
     margin-left: -30px;
     margin-bottom: 0;
     margin-top: 10px;
@@ -782,15 +782,15 @@ ul {
     margin-top: 0;
 }
 
-.when { 
+.when {
     color: #FFF;
-    
+
     text-align: center;
 
     font-family: 'Inter', sans-serif;
     font-weight: 400;
     font-size: 40px;
-    
+
     padding-bottom: 40px;
     margin-bottom: 0;
     margin-top: 0;
@@ -799,11 +799,11 @@ ul {
 .contacts {
 
     padding-left: 132.55px;
-    
+
     text-decoration: none;
-    
+
     color: #FFFFFF;
-    
+
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 24px;
@@ -813,7 +813,7 @@ ul {
     text-align: center;
 
     color: #FFFFFF;
-    
+
     font-family: 'Inter', sans-serif;
     font-weight: 200;
     font-size: 24px;
@@ -843,9 +843,9 @@ ul {
     padding-left: 132.55px;
 
     text-decoration: none;
-    
+
     color: #FFFFFF;
-    
+
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 24px;
@@ -894,7 +894,7 @@ ul {
     width: 100%;
 
     display: flex;
-    
+
     padding-left: 0;
 }
 
@@ -904,7 +904,7 @@ ul {
     margin-top: 0;
 
     color: #FFF;
-    
+
     font-size: 20px;
     font-family: 'Inter', sans-serif;
     font-weight: 300;
@@ -914,9 +914,9 @@ ul {
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 24px;
-    
+
     color: #FFF;
-    
+
     padding-top: 40px;
     margin-top: 0;
     margin-bottom: 0;
@@ -926,9 +926,9 @@ ul {
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 24px;
-    
+
     color: #FFF;
-    
+
     padding-top: 40px;
     margin-top: 0;
     margin-bottom: 0;
@@ -937,13 +937,13 @@ ul {
 
 .company {
     text-decoration: none;
-    
+
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 24px;
-    
+
     color: #FFF;
-    
+
     padding-top: 40px;
     margin-top: 0;
     margin-bottom: 0;
@@ -962,7 +962,7 @@ ul {
     font-family: 'Inter', sans-serif;
     font-weight: 300;
     font-size: 24px;
-    
+
     color: #FFF;
 
     line-height: 15px;
@@ -989,39 +989,34 @@ ul {
     margin-left: 141.6px;
     padding-top: 41px;
 
-    line-height: 33px;
+    /* line-height: 33px; */
 }
 
 .p_div_second {
     padding-top: 41px;
 
-    line-height: 33px;
-}
-
-.p_div p {
-
-    margin: 0;
-}
-
-.p_div_second p {
-
-    margin: 0;
-}
-
-.p_div_first p {
-
-    margin: 0;
+    /* line-height: 33px; */
 }
 
 .about_us {
-    margin-top: 41px;
-    margin-bottom: 0;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+
+}
+
+.navigation_footer {
+    padding-top: 41px;
 }
 
 .features {
-    margin-top: 0;
-    margin-bottom: 0;
-    padding-top: 15px;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
 }
 
 .first_li_in_footer {
@@ -1029,9 +1024,14 @@ ul {
 }
 
 .news {
-    padding-top: 15px;
-    margin-top: 0;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
 }
+
+.news:hover {}
 
 .riserved {
     font-family: 'Inter', sans-serif;
@@ -1078,5 +1078,322 @@ button:hover {
 
     100% {
         transform: rotateX(-360deg);
+    }
+}
+
+.text-flicker-in-glow:hover {
+    -webkit-animation: text-flicker-in-glow 4s linear both;
+    animation: text-flicker-in-glow 1s linear both;
+}
+
+@-webkit-keyframes text-flicker-in-glow {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    10.1% {
+        opacity: 1;
+        text-shadow: none;
+    }
+
+    10.2% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    20% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    20.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.25);
+    }
+
+    20.6% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    30% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    30.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    30.5% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    30.6% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    45% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    45.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    50% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    55% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    55.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    57% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    57.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+    }
+
+    60% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+    }
+
+    60.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    65% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    65.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    75% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    75.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    77% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    77.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    85% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    85.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    86% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    86.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    100% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+}
+
+@keyframes text-flicker-in-glow {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    10.1% {
+        opacity: 1;
+        text-shadow: none;
+    }
+
+    10.2% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    20% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    20.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.25);
+    }
+
+    20.6% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    30% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    30.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    30.5% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    30.6% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    45% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    45.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    50% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    55% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.45), 0 0 60px rgba(255, 255, 255, 0.25);
+    }
+
+    55.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    57% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    57.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+    }
+
+    60% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35);
+    }
+
+    60.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    65% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    65.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    75% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.35), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    75.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    77% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    77.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    85% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.55), 0 0 60px rgba(255, 255, 255, 0.4), 0 0 110px rgba(255, 255, 255, 0.2), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    85.1% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    86% {
+        opacity: 0;
+        text-shadow: none;
+    }
+
+    86.1% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
+    }
+
+    100% {
+        opacity: 1;
+        text-shadow: 0 0 30px rgba(255, 255, 255, 0.6), 0 0 60px rgba(255, 255, 255, 0.45), 0 0 110px rgba(255, 255, 255, 0.25), 0 0 100px rgba(255, 255, 255, 0.1);
     }
 }
