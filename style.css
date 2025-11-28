@@ -124,10 +124,23 @@ header {
 
 
 .bakes:hover {
-    background-color: #EBAD51;
+    /* background-color: #EBAD51; */
+    animation-name: smothtransition;
+    animation-timing-function: ease-in;
+    animation-duration: .2s;
+    animation-fill-mode: forwards;
 
 }
 
+@keyframes smothtransition {
+    0% {
+        background: #272727;
+    }
+
+    100% {
+        background-color: #EBAD51;
+    }
+}
 
 .box-cookie {
     width: 160px;
@@ -360,6 +373,7 @@ header {
     font-family: 'Inter', sans-serif;
     font-weight: 800;
     font-size: 26px;
+    /* padding-top: 100px; */
 }
 
 .menu_bakes {
@@ -368,6 +382,29 @@ header {
     outline: 1px solid white;
 
     text-align: center;
+}
+
+.headLinks {
+    text-decoration: none;
+    color: white;
+}
+
+.headLinks:hover {
+    animation-name: headerLiAnim;
+    animation-timing-function: ease-in;
+    animation-duration: .15s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes headerLiAnim {
+    0% {
+        color: white;
+    }
+
+    100% {
+        color: rgb(136, 136, 136);
+    }
+
 }
 
 .chokolate_cookie {
@@ -1029,8 +1066,6 @@ ul {
     font-family: 'Inter', sans-serif;
     font-weight: 200;
 }
-
-.news:hover {}
 
 .riserved {
     font-family: 'Inter', sans-serif;
